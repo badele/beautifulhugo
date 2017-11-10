@@ -12,6 +12,10 @@
 
 ![highlighting](https://github.com/badele/beautifulhugo/raw/apply_my_branchs/apply_my_branchs/highlighting.png)
 
+### rssfeed
+
+Add customized RSS url feed
+
 ## Apply my branchs
 
 ### Get forked repository
@@ -29,4 +33,5 @@ git checkout -b used_by_my_blog
 git rebase french-translation
 git rebase title-image
 git rebase highlighting
+git rebase rssfeed
 ```
