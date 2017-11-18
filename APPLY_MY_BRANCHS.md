@@ -33,10 +33,7 @@ git clone git@github.com:badele/beautifulhugo.git
 
 ```bash
 git checkout master
-git checkout -b used_by_my_blog
-git rebase french-translation
-git rebase title-image
-git rebase highlighting
-git rebase rssfeed
+git checkout -b used_by_my_blog 7cdd0e0b3d986af12079c0f37d069fbe2713ab16
 git rebase staticman
+git rebase post-info
 ```
