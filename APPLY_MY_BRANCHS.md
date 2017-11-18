@@ -16,6 +16,10 @@
 
 Add customized RSS url feed
 
+### staticman
+
+![staticman](https://github.com/badele/beautifulhugo/raw/apply_my_branchs/apply_my_branchs/staticman.png)
+
 ## Apply my branchs
 
 ### Get forked repository
@@ -34,4 +38,5 @@ git rebase french-translation
 git rebase title-image
 git rebase highlighting
 git rebase rssfeed
+git rebase staticman
 ```
